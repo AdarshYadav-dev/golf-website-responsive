@@ -38,7 +38,7 @@ A fully responsive and complete golf-themed website built using HTML5, CSS3, and
 ## Author
 
 Adarsh Yadav  
-[GitHub](https://github.com/AdarshYadav-dev)  ![image]([https://github.com/user-attachments/assets/519361cc-dd4e-480c-9bd0-644f05eef890](https://github.com/AdarshYadav-dev))
+[GitHub](https://github.com/AdarshYadav-dev) ||
 [LinkedIn](www.linkedin.com/in/adarsh-yadav--7aa9a1276) ![image](https://github.com/user-attachments/assets/519361cc-dd4e-480c-9bd0-644f05eef890)
 
 
